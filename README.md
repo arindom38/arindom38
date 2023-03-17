@@ -41,15 +41,13 @@
 <a href="https://www.jetbrains.com/idea/"><img src="https://www.jetbrains.com/idea/img/idea-edu.svg" height=25></a> • <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a> • <a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
   
 #### What's interesting about me?  
-  - 😎 I am an **man of commitment** and I always like to push my  **limit**.
+  - 😎 I am a **man of commitment** and I always like to push my  **limit**.
   - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
   - ✍️ I write about **why a certain code is written instead of what** in the comments.
-  - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
+  - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **Java** ecosystem.
 
 <!--Github Stats
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asadullahrifat89" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadullahrifat89"/>
 </p>
 -->
 
@@ -91,10 +89,6 @@ In the overview below you will find the featured posts of my [blog](https://ujja
 
 <!--
 #### What are my recent highlights?
-- [featured-a-space-shooter-game-on-the-web-with-c#-wasm-on-blogs-uno-platform](https://platform.uno/blog/a-space-shooter-game-on-the-web-with-c-wasm-and-uno-platform/)
-- [featured-photot-editor-on-linkedin-uno-platform](https://www.linkedin.com/posts/uno-platform_its-always-such-a-pleasure-to-see-what-our-activity-6963517756608495616-vfbo?utm_source=linkedin_share&utm_medium=member_desktop_web)
-- [featured-article-on-2d-web-games-on-twitter-wasm-weekly](https://twitter.com/WasmWeekly/status/1560266404171231232)
-- [honored-with-dragon-award-by-selise-digital-platforms](https://www.linkedin.com/posts/asadullah-rifat_people-tech-culture-activity-6962505193817071616-ymfj?utm_source=linkedin_share&utm_medium=member_desktop_web)
 -->
 
 #### How to get in touch with me?
