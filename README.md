@@ -3,13 +3,13 @@
 #### Who I am?
 - A Software Engineer L-II based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
 - Have 4 years of hands-on experience in **product development, technical consulting.**
-- Developed products for **financial service, Core Banking system ** and **logistics** business domains.
+- Developed products for **financial service**, **Core Banking system** and **logistics** business domains.
 - Have built **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 
 #### What I'm doing?
 - 🏢 Working at **[Vivasoft Ltd (Bkash Team)](https://www.vivasoftltd.com/)** as a **Software Engineer L-II**.
 - 👨‍💻 Writing `Java` `SQL` `JSON` `HTML` `CSS` `JavaScript`.
-- 🌍 Mostly active on <a href="https://www.linkedin.com/in/ujjal-kundu-2a3b85134/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/asadullah-rifat)--> and the **Java community**.
+- 🌍 Mostly active on <a href="https://www.linkedin.com/in/ujjal-kundu-2a3b85134/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **Java community**.
 - 📚 Currently learning about **large scale system design**,**architectural pattern**, **reactive programming** and **cloud services (aws)**.
 - 👯 Looking to collaborate on **Java projects**.
 
@@ -21,10 +21,10 @@
 - 🖥 **Front-end:** 
   - **📜 Languages:**  `👨‍🔧 JavaScript` • `👨‍🏭 XAML` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**   [Vue Js](https://vuejs.org/) 
-  - **:scroll: Library:**   [Jquery](https://vuejs.org/) • [Bootstrap](https://getbootstrap.com/) • [Thymeleaf](https://www.thymeleaf.org/) • [Jquery](https://jquery.com/) • [React Js](https://react.dev/) 
+  - **:books: Library:**   [Jquery](https://vuejs.org/) • [Bootstrap](https://getbootstrap.com/) • [Thymeleaf](https://www.thymeleaf.org/) • [Jquery](https://jquery.com/) • [React Js](https://react.dev/) 
     
 - 🗄️ **Back-end:**
-  - **📜 Languages:** • `🧙🏻‍♂️ Java` `:leafy_green: Javascript`
+  - **📜 Languages:** • `🧙🏻‍♂️ Java` :leafy_green:`Javascript`
   - **🔭 Frameworks:** • [Spring MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/apis) • [Spring Boot](https://dotnet.microsoft.com/en-us/apps/aspnet/apis)
   - **💾 Databases:** • [Postgres Sql](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MySql](https://www.mongodb.com/) • [Oracle](https://www.litedb.org/) • [MongoDb](https://www.sqlite.org/index.html)
   - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
@@ -56,24 +56,25 @@
 #### What companies have I worked for?
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="KPN" src="https://www.vivasoftltd.com/wp-content/uploads/2022/09/Logo-5.svg
-"/>](https://www.vivasoftltd.com/)
+[<img align="left" height="94px" width="94px" alt="Vivasoft" src="https://media.licdn.com/dms/image/C4D0BAQEYJrR1iLUyOg/company-logo_200_200/0/1655447112250?e=1687392000&v=beta&t=SdnP6yIdgluzBvQnJlD9vRr8LtHJEml3eR3O3QCKCKc"/>](https://www.vivasoftltd.com/)
 
-**Software Engineer L-II ** \
+**Software Engineer L-II** \
 [**Vivasoft Ltd**](https://www.kpn.com/) • Full-time \
 Languages & Technologies: `Spring Boot`,`Spring Webflux`, `Java`, `PostgreSql`, `RabbitMq`,`Redis`, `Aws` \
 Featured Projects: [Bkash-Recurring Payment Platform](https://github.com/warpnet/salt-lint)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.revesoft.com/cdn/assets/images/REVE-Systems.png"/>](https://www.revesoft.com/)
+[<img align="left" height="94px" width="94px" alt="revesoft" src="https://www.revegroup.com/wp-content/uploads/2017/01/rs-logo.jpg"/>](https://www.revesoft.com/)
 
-**Software Engineer ** \
+**Software Engineer** \
 [**Reve Systems**](https://www.revesoft.com/) • Full-time \
 Languages & Technologies: `Spring Boot`, `Java`, `MySql`, `Oracle`, `Thymeleaf`, `Javascript`, `HTML` \
 Featured Projects: [Nartional Board of Revenue](https://github.com/warpnet/salt-lint)
 <br/>
 
-**Junior Java Developer ** \
+[<img align="left" height="94px" width="94px" alt="sonaliintellect" src="https://www.sonaliintellect.com/asset/img/logo-spftl.jpg"/>](https://www.sonaliintellect.com/)
+
+**Junior Java Developer** \
 [**Sonali Intellect Ltd**](https://warpnet.nl/) • Full-time \
 Languages & Technologies: `Spring MVC`, `Core Java`, `Oracle`, `PlSql`, `Thymeleaf`, `Javascript`, `JSP`,`java Applet` \
 Featured Projects: [Sonali Bank Treasury System](https://github.com/warpnet/salt-lint), [Rupali Bank Treasury System](https://github.com/warpnet/vscode-salt-lint)
@@ -81,15 +82,10 @@ Featured Projects: [Sonali Bank Treasury System](https://github.com/warpnet/salt
 
 
 ### Blog Posts
-In the overview below you will find the featured [posts](https://roaldnefs.com/posts/) of my [blog](https://roaldnefs.com/).
+In the overview below you will find the featured posts of my [blog](https://ujjal-kundu.hashnode.dev/).
 
 <!-- BLOG_START -->
-<!--
-- [Spoofing Microchips used for Animal Identification](https://roaldnefs.com/posts/2022/11/spoofing-microchips-used-for-animal-identification/) (2022-11-30)
-- [How to Automatically Generate Clients for your REST API](https://roaldnefs.com/posts/2020/12/how-to-automatically-generate-clients-for-your-rest-api/) (2020-12-19)
-- [Ding Dong Ditch using SDR and Arduino](https://roaldnefs.com/posts/2020/01/ding-dong-ditch-using-sdr-and-arduino/) (2020-01-02)
-- [Hardware Reversing the Sitecom Wireless Router 150N X1](https://roaldnefs.com/posts/2019/12/hardware-reverse-a-wireless-router/) (2019-12-14)
--->
+- [Implementing Spring Boot JPA in Generic way for Common Services](https://ujjal-kundu.hashnode.dev/implementing-spring-boot-jpa-in-generic-way-for-common-services) (2023-01-11)
 <!-- BLOG_END -->
 
 
@@ -101,20 +97,12 @@ In the overview below you will find the featured [posts](https://roaldnefs.com/p
 - [honored-with-dragon-award-by-selise-digital-platforms](https://www.linkedin.com/posts/asadullah-rifat_people-tech-culture-activity-6962505193817071616-ymfj?utm_source=linkedin_share&utm_medium=member_desktop_web)
 -->
 
-<!--
 #### How to get in touch with me?
-<p left="center">
-<a href="https://twitter.com/anonymus_7">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
-<a href="https://www.linkedin.com/in/asadullah-rifat">
+<p left="center"> 
+<a href="https://www.linkedin.com/in/ujjal-kundu-2a3b85134/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="https://www.facebook.com/Anonymus7/">
+<a href="https://www.facebook.com/profile.php?id=100004637221498">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
-<a href="mailto:asadullah.rifat@selise.ch">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
 </p>
--->
