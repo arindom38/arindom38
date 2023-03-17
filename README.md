@@ -61,7 +61,7 @@ In the overview below you will find my most recent work experience:
 **Software Engineer L-II** \
 [**Vivasoft Ltd**](https://www.kpn.com/) • Full-time \
 Languages & Technologies: `Spring Boot`,`Spring Webflux`, `Java`, `PostgreSql`, `RabbitMq`,`Redis`, `Aws` \
-Featured Projects: [Bkash-Recurring Payment Platform](https://github.com/warpnet/salt-lint)
+Featured Projects: [Bkash-Recurring Payment Platform]()
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="revesoft" src="https://www.revegroup.com/wp-content/uploads/2017/01/rs-logo.jpg"/>](https://www.revesoft.com/)
@@ -69,7 +69,7 @@ Featured Projects: [Bkash-Recurring Payment Platform](https://github.com/warpnet
 **Software Engineer** \
 [**Reve Systems**](https://www.revesoft.com/) • Full-time \
 Languages & Technologies: `Spring Boot`, `Java`, `MySql`, `Oracle`, `Thymeleaf`, `Javascript`, `HTML` \
-Featured Projects: [Nartional Board of Revenue](https://github.com/warpnet/salt-lint)
+Featured Projects: [Nartional Board of Revenue]()
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="sonaliintellect" src="https://www.sonaliintellect.com/asset/img/logo-spftl.jpg"/>](https://www.sonaliintellect.com/)
@@ -77,7 +77,7 @@ Featured Projects: [Nartional Board of Revenue](https://github.com/warpnet/salt-
 **Junior Java Developer** \
 [**Sonali Intellect Ltd**](https://warpnet.nl/) • Full-time \
 Languages & Technologies: `Spring MVC`, `Core Java`, `Oracle`, `PlSql`, `Thymeleaf`, `Javascript`, `JSP`,`java Applet` \
-Featured Projects: [Sonali Bank Treasury System](https://github.com/warpnet/salt-lint), [Rupali Bank Treasury System](https://github.com/warpnet/vscode-salt-lint)
+Featured Projects: [Sonali Bank Treasury System](), [Rupali Bank Treasury System]()
 <br/>
 
 
